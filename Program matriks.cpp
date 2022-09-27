@@ -6,7 +6,7 @@ int main ()
 {
     int i, j, m, n, matriksA[10][10], matriksB[10][10], hasil[10][10], pilihan;
 
-    cout << "\nAda 3 Operasi Aritmatika Matriks" << endl;
+    cout << "\nOperasi Aritmatika Matriks" << endl;
     cout << "\t1. Penjumlahan\n\t2. Pengurangan\n\t3. Perkalian\n\t4.Transpose"
     << endl;
     cout << "Tentukan Pilihan Anda : ";
